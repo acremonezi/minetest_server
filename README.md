@@ -27,4 +27,4 @@ This environment was designed to run on a Linux-based server, but can be used on
 
 
 ## Server
-The Server (hardware where you will run the environment) can be your personal computer, a single board computer such as raspiberry pi or any VPS server available online for example.
+The hardware where you will run this "Minetest Server" environment can be your personal computer, a single board computer such as raspiberry pi or any VPS server available online if you would like to expose it to remotely playiers access for example.
