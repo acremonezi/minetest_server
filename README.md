@@ -17,7 +17,7 @@ For further information, plese visit: https://www.minetest.net
 
 
 ## Environment
-This environment was designed to run on a Linux-based server, but can be used on any operating system, detailed information are following:
+This environment was designed to run on a Linux-based server, but can be used on any operating system with some small changes, detailed information are following:
 
 1. Ubuntu Server version 24.04 LTS
 2. Docker version 27.2.0
