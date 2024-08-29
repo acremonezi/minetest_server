@@ -2,7 +2,7 @@
 This Server was implemented with Docker and Postgres.  
 
 
-## Objectives
+## Purpose
 I created this project with the goal of helping parents to easily create a reliable and stable Minetest Server.
 
 And therefore, offer to their children a private and safe game environment that you can build at home on your local network for instance.
