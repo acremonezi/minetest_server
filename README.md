@@ -7,6 +7,8 @@ For further information, plese visit: https://www.minetest.net
 
 ## Server
 This environment was designed to run on a Linux-based server, but can be used on any operating system.<br>
+<br>
+Detailed information:
 
 1. VPS: 4 Cores CPU, 4GB RAM and 32GB Storage.
 2. Ubuntu Server version 24.04 LTS
