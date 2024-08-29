@@ -1,5 +1,13 @@
 # Minetest⁠ Server
-This Server was Implemented with Docker and Postgres.  
+This Server was implemented with Docker and Postgres.  
+
+## Objectives
+I created this project with the goal of helping parents to easily create a reliable and stable Minetest Server.
+
+And therefore, offer to their children a private and safe game environment that you can build at home on your local network for instance.
+<br> So kids can unleash their imagination and creativity and then create and carry out their build projects.
+
+Because I believe that Technology is a way to serve people.
 
 ## Minetest
 It is a near-infinite-world block sandbox game and a game engine, inspired by InfiniMiner, Minecraft, and similars.<br>
