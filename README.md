@@ -12,7 +12,7 @@ Because I believe that Technology is a way to serve people.
 
 
 ## Minetest
-It is a near-infinite-world block sandbox game and a game engine, inspired by InfiniMiner, Minecraft, and similars.<br>
+Minetest is a near-infinite-world block sandbox game and a game engine, inspired by InfiniMiner, Minecraft, and similars.<br>
 For further information, plese visit: https://www.minetest.net
 
 
