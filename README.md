@@ -9,11 +9,14 @@ And therefore, offer to their children a private and safe game environment that 
 
 Because I believe that Technology is a way to serve people.
 
+
 ## Minetest
 It is a near-infinite-world block sandbox game and a game engine, inspired by InfiniMiner, Minecraft, and similars.<br>
 For further information, plese visit: https://www.minetest.net
 
-## Environment
+## Building
+
+### Environment
 This environment was designed to run on a Linux-based server, but can be used on any operating system, detailed information are following:
 
 1. Ubuntu Server version 24.04 LTS
@@ -22,5 +25,5 @@ This environment was designed to run on a Linux-based server, but can be used on
 4. Minetest version 5.8.0
 5. Postgres version 15.8
 
-## Server
+### Server
 The Server (hardware where you will run the environment) can be your personal computer, a single board computer such as raspiberry pi or any VPS server available online for example.
