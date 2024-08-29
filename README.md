@@ -22,5 +22,5 @@ This environment was designed to run on a Linux-based server, but can be used on
 4. Minetest version 5.8.0
 5. Postgres version 15.8
 
-# Server
+## Server
 The Server (hardware where you will run the environment) can be your personal computer, a single board computer such as raspiberry pi or any VPS server available online for example.
